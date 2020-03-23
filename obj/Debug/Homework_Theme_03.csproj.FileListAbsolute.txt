@@ -1,0 +1,6 @@
+C:\Users\Евгения\Desktop\GitHUB\Branch-and-Cycle-Control-Structures\bin\Debug\Homework_Theme_03.exe.config
+C:\Users\Евгения\Desktop\GitHUB\Branch-and-Cycle-Control-Structures\bin\Debug\Homework_Theme_03.exe
+C:\Users\Евгения\Desktop\GitHUB\Branch-and-Cycle-Control-Structures\bin\Debug\Homework_Theme_03.pdb
+C:\Users\Евгения\Desktop\GitHUB\Branch-and-Cycle-Control-Structures\obj\Debug\Homework_Theme_03.csprojAssemblyReference.cache
+C:\Users\Евгения\Desktop\GitHUB\Branch-and-Cycle-Control-Structures\obj\Debug\Homework_Theme_03.exe
+C:\Users\Евгения\Desktop\GitHUB\Branch-and-Cycle-Control-Structures\obj\Debug\Homework_Theme_03.pdb
